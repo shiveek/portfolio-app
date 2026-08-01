@@ -13,7 +13,7 @@ const ResumeSection = () => {
         <SectionHeader
           badge="ATS RESUME"
           title="One-Page ATS-Optimized Resume"
-          subtitle="Engineered with >95% ATS keyword density, metric-quantified achievements, and Harvard single-column structure."
+          subtitle="Engineered with &gt;95% ATS keyword density, metric-quantified achievements, and Harvard single-column structure."
         />
 
         <div className="max-w-4xl mx-auto">
@@ -34,7 +34,7 @@ const ResumeSection = () => {
             {/* Resume Highlights Grid */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs font-mono mb-8 text-left max-w-2xl mx-auto">
               <div className="p-2.5 rounded-lg bg-white/5 border border-white/5 flex items-center gap-1.5 text-textMuted">
-                <CheckCircle className="w-3.5 h-3.5 text-accent shrink-0" /> >95% ATS Score
+                <CheckCircle className="w-3.5 h-3.5 text-accent shrink-0" /> &gt;95% ATS Score
               </div>
               <div className="p-2.5 rounded-lg bg-white/5 border border-white/5 flex items-center gap-1.5 text-textMuted">
                 <CheckCircle className="w-3.5 h-3.5 text-accent shrink-0" /> Single Column
